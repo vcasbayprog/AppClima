@@ -28,9 +28,9 @@ form {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     width: 100%;
     max-width: 400px;
-    text-align: center; /* Centra los elementos dentro del formulario */
+    text-align: center;
     box-sizing: border-box;
-    margin: 0 auto; /* Asegura que el formulario esté centrado horizontalmente */
+    margin: 0 auto; /
 }
 
 form label {
@@ -41,7 +41,7 @@ form label {
 }
 
 form input[type="text"] {
-    width: calc(100% - 20px); /* Ajusta el ancho considerando el padding del contenedor */
+    width: calc(100% - 20px); 
     padding: 10px;
     margin-bottom: 15px;
     border: 1px solid #ddd;
