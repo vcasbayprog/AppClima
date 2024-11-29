@@ -1,6 +1,6 @@
 🌤️
 
-Crear una aplicacion web que permita al usuario ingresar una ubicacion y obtener el clima actual de esa area utilizando la api API de openweathermap.Se realizara con html, JavaScript y CSS.
+Aplicacion web que permite al usuario ingresar una ubicacion y obtener el clima actual de esa area utilizando la API de openweathermap.Realizado con html, JavaScript y CSS.
 
 
 Instalación 🛠️
